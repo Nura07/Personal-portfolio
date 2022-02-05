@@ -1,0 +1,109 @@
+.logo-outside{
+    width: 250px;
+    height: 250px;
+    border-radius: 130px;
+    border: 1px solid #ffbd59;
+    background-color: #ffbd59;
+    margin: auto;
+    border-top-left-radius: 30px;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin: 22px;
+}
+.logo-right{
+    background-color: #ffbd59;
+    border-bottom-left-radius: 60px;
+    padding: 40px 64px;
+    border-top-right-radius: 60px;
+}
+
+.spaceline{    
+    margin-top: 50px;
+}
+
+.text-1{
+    font-size: 20px;
+}
+.text-2{
+    font-size: 18px;
+}
+.color-1{
+    background-color:#ffbd59;
+    color: black;
+    margin-bottom: 20px;
+    width: 358px;
+    margin-left: 54px;
+    border-top-right-radius: 20px;
+}
+.color-2{
+    color: white;
+    
+}
+.color-3
+{
+ color: #ffbd59;
+
+}
+.iconfont{
+    margin-right: 18px;
+    font-size: 24px;
+    text-decoration: none;
+}
+.bi{
+    font-size: 22px;
+}
+.content-1{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.content-2{
+    margin-right: 60px;
+    margin-left: 70px;
+    
+}
+.content-3{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.icofont-read-book{
+    margin-left: 26px;
+}
+.content-4{
+    padding-left: 100px;
+    padding-right: 20px;
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #152837;
+    
+}
+a:hover{
+    color: white;
+}
+.text-decoration-underline:hover{
+    color:#ffbd59 ;
+    
+}
+.left-bottom{
+    height: 90px;
+    background-color: #ffbd59;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    width: 400px;
+    border-top-right-radius: 30px;
+    color:black;
+}
+.underline{
+    text-decoration: underline;
+    display: inline-block;
+    font-weight: bold;
+}
+.marquee{
+    font-size: 20px;
+    padding-top: 30px;
+}
